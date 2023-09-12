@@ -22,10 +22,10 @@
             <div class="col-md-4">
               <h6 class="text-uppercase mb-3">Social media</h6>
               <ul class="list-unstyled mb-0">
-                <li><a class="footer-link" href="#!">Twitter</a></li>
-                <li><a class="footer-link" href="#!">Instagram</a></li>
-                <li><a class="footer-link" href="#!">Tumblr</a></li>
-                <li><a class="footer-link" href="#!">Pinterest</a></li>
+                <li><a class="footer-link" href="<?=$base_info[0]['twitter_link']?>">Twitter</a></li>
+                <li><a class="footer-link" href="<?=$base_info[0]['instagram_link']?>">Instagram</a></li>
+                <li><a class="footer-link" href="<?=$base_info[0]['facebook_link']?>">Facebook</a></li>
+                <li><a class="footer-link" href="<?=$base_info[0]['linkedin_link']?>">Linkedin</a></li>
               </ul>
             </div>
           </div>
