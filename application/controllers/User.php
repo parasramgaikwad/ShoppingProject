@@ -221,8 +221,8 @@ class User extends CI_Controller {
 		$this->load->view("user/order_bill",$order);
 
 
-		echo "<pre>";
-		print_r($order);
+		//echo "<pre>";
+		//print_r($order);
 		// echo "<hr>";
 		// print_r($order_det);
 
